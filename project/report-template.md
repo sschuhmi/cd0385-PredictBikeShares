@@ -25,8 +25,8 @@ TODO: I would definitely spend more time in data cleaning and feature engineerin
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1:time_limit|hpo2:problem_type|hpo3:catboost|score|
 |--|--|--|--|--|
-|initial|600|?|?|1.84|
-|add_features|600|?|?|0.66|
+|initial|600|Nan|Nan|1.84|
+|add_features|600|Nan|Nan|0.66|
 |hpo|1000|"regression"|"learning_rate: 0.03, iterations: 15, l2_leaf_reg: 0.125"|0.48|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
