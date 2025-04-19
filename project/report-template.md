@@ -35,7 +35,7 @@ An extended EDA leading to further additional features would be my first choice,
 
 Training score by metric R2 score (the higher the better; 1 is best):
 
-![model_r2.png](img/model_r2.png)
+!![model_r2.png](img/model_r2.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 Submission score by kaggle score (the lower the better; 0 is best):
@@ -43,4 +43,4 @@ Submission score by kaggle score (the lower the better; 0 is best):
 ![model_submiss_kaggle_score.png](img/model_submiss_kaggle_score.png)
 
 ## Summary
-TODO: Add your explanation
+This project clearly showed the advantages of performing EDA to the data before training the model, as this significantly helped to increase the score of the predictions. Further improvements can be made by adding additional features and increasing the training time, as well as tuning the hyperparameters of AutoGluon, which can be done fully automated.
