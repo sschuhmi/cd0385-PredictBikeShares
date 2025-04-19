@@ -35,7 +35,7 @@ An extended EDA leading to further additional features would be my first choice,
 
 Training score by metric R2 score (the higher the better; 1 is best):
 
-![model_train_rmse.png](img/model_train_rmse.png)
+![model_r2.png](img/model_r2.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 Submission score by kaggle score (the lower the better; 0 is best):
