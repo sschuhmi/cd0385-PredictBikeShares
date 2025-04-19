@@ -27,7 +27,7 @@ An extended EDA leading to further additional features would be my first choice,
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model (WeightedEnsemble_L3)|hpo1 (TimeLimit_sec)|hpo2 (FeatureSet)|hpo3 (HyperparTuning)|score|
 |--|--|--|--|--|
-|initial|600|Standard|OFf|1.78377|
+|initial|600|Standard|Off|1.78377|
 |add_features|600|Weather/Season as Categories + new feature 'Hour'|Off|0.74682|
 |hpo|1800|Weather/Season as Categories + new feature 'Hour'|Auto|0.64080|
     
