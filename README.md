@@ -4,4 +4,4 @@ Especially:
 - The project notebook
 - The project report
 - The training, test and submission CSV files
-- The graphs
+- The created graphs and images
